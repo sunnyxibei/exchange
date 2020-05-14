@@ -1,7 +1,19 @@
-<resources>
-    <string name="app_site_url">http://yudada123.com/</string>
-
-    <string name="more">更多</string>
-    <string name="save">保存</string>
-    <string name="unknown">未知</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="grade1">小学一年级</string>
+    <string name="grade2">小学二年级</string>
+    <string name="grade3">小学三年级</string>
+    <string name="grade4">小学四年级</string>
+    <string name="grade5">小学五年级</string>
+    <string name="grade6">小学六年级</string>
+    <string name="grade7">初中一年级</string>
+    <string name="grade8">初中二年级</string>
+    <string name="grade9">初中三年级</string>
+    <string name="grade10">高中一年级</string>
+    <string name="grade11">高中二年级</string>
+    <string name="grade12">高中三年级</string>
+    <string name="agree">同意</string>
+    <string name="disagree">不同意</string>
+    <string name="privacy_agree">同意</string>
+    <string name="privacy_disagree">不同意</string>
+    <string name="language">语言</string>
 </resources>
